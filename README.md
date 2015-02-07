@@ -1,11 +1,8 @@
 # line-muncher
-============
-
-###Author: Luke Ho
-###Assumptions: You have GCC, Python, Perl, Bash, make, egrep installed and that you're running this in a linux environment 
 
 Quick Start
 ============
+    Assumptions: You have GCC, Python, Perl, Bash, make, egrep installed and that you're running this in a linux environment 
     Run the "./run.sh" in home directory.
 
 Manual steps
