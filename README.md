@@ -2,7 +2,9 @@
 
 Quick Start
 ============
-    Assumptions: You have GCC, Python, Perl, Bash, make, egrep installed and that you're running this in a linux environment 
+    Assumptions: You have GCC, Python, Perl, Bash, make, egrep installed and that you're running 
+    this in a linux environment.
+    
     Run the "./run.sh" in home directory.
 
 Manual steps
@@ -15,9 +17,9 @@ Manual steps
 
 The muncher will fork off a child process and print out, line-by-line, the contents of the file passed in.
 
-In the scripts/ directory, there are two files: generate_tests.c and generate_tests.py. When "make" is ran, it will generate a gen_tests binary that will output numbers within a given range to a file
+In the scripts/ directory, there are two files: generate_tests.c and generate_tests.py. When "make" is ran, it will generate a gen_tests binary that will output numbers within a given range to a file.
 
-The python script (scripts/generate_tests.py) will put each new number on a separate line for more testing if required
+The python script (scripts/generate_tests.py) will put each new number on a separate line for more testing if required.
 
 gen_tests binary will put each new number back to back and spit it all out as a single line.
 
